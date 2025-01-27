@@ -1,0 +1,1 @@
+Aplikacja internetowa do zarządzania wypożyczeniami samochodów, umożliwiająca rejestrację, edycję, usuwanie oraz przeglądanie rezerwacji samochodów, z kontrolą dostępności pojazdów i blokadą terminu w przypadku nakładających się rezerwacji.
